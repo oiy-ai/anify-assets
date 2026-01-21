@@ -1,0 +1,15 @@
+{
+  "name": "@anify/assets",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Anify Assets - Media and design assets",
+  "scripts": {
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^20.1.0",
+    "@commitlint/config-conventional": "^20.0.0",
+    "husky": "^9.1.7"
+  }
+}
