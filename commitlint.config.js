@@ -5,9 +5,9 @@ export default {
     'header-max-length': [2, 'always', 200],
     'header-min-length': [2, 'always', 80],
     'subject-leading-capital': [2, 'always'],
-    'subject-case': [2, 'always', ['sentence-case']],
     'body-empty': [2, 'always'],
     'footer-empty': [2, 'always'],
+    'subject-case': [2, 'always', ['sentence-case']],
     'no-chinese': [2, 'always'],
   },
   plugins: [
